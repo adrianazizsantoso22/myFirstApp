@@ -1,0 +1,46 @@
+com.tmsimple.myfirstapp-fragment-ktx-1.6.0-0 C:\Users\asus\.gradle\caches\8.11.1\transforms\076220f6b8de61db87fbf06c72dad77c\transformed\fragment-ktx-1.6.0\res
+com.tmsimple.myfirstapp-lifecycle-runtime-ktx-2.6.1-1 C:\Users\asus\.gradle\caches\8.11.1\transforms\0c9ea2160a3ab186683d8e8d5e120bb0\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.tmsimple.myfirstapp-cardview-1.0.0-2 C:\Users\asus\.gradle\caches\8.11.1\transforms\12ca5a528003628e5d5e74e45ec3462e\transformed\cardview-1.0.0\res
+com.tmsimple.myfirstapp-lifecycle-livedata-core-2.6.1-3 C:\Users\asus\.gradle\caches\8.11.1\transforms\1d83acbd7dcde2a2540bc925d1f8ba9b\transformed\lifecycle-livedata-core-2.6.1\res
+com.tmsimple.myfirstapp-savedstate-ktx-1.2.1-4 C:\Users\asus\.gradle\caches\8.11.1\transforms\29cc94e43763b2ff70bd0071b976f9d7\transformed\savedstate-ktx-1.2.1\res
+com.tmsimple.myfirstapp-emoji2-views-helper-1.2.0-5 C:\Users\asus\.gradle\caches\8.11.1\transforms\328736c9d1d893cc824262264a22e627\transformed\emoji2-views-helper-1.2.0\res
+com.tmsimple.myfirstapp-lifecycle-livedata-core-ktx-2.6.1-6 C:\Users\asus\.gradle\caches\8.11.1\transforms\3d4709ced35c438de0ba85e1928fb45c\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.tmsimple.myfirstapp-core-runtime-2.2.0-7 C:\Users\asus\.gradle\caches\8.11.1\transforms\412e0404c2e1c63f8ae4000175c80e5d\transformed\core-runtime-2.2.0\res
+com.tmsimple.myfirstapp-navigation-ui-2.6.0-8 C:\Users\asus\.gradle\caches\8.11.1\transforms\49fc593418c30ebd5508af05f2fa4e21\transformed\navigation-ui-2.6.0\res
+com.tmsimple.myfirstapp-appcompat-resources-1.6.1-9 C:\Users\asus\.gradle\caches\8.11.1\transforms\4dcf85ac431ab61510652134260e1765\transformed\appcompat-resources-1.6.1\res
+com.tmsimple.myfirstapp-navigation-fragment-2.6.0-10 C:\Users\asus\.gradle\caches\8.11.1\transforms\507e83e5e2808272317a53667d6c6c86\transformed\navigation-fragment-2.6.0\res
+com.tmsimple.myfirstapp-core-1.9.0-11 C:\Users\asus\.gradle\caches\8.11.1\transforms\531a95774b29046aeed5389b706b1311\transformed\core-1.9.0\res
+com.tmsimple.myfirstapp-coordinatorlayout-1.1.0-12 C:\Users\asus\.gradle\caches\8.11.1\transforms\58ba4ca7166af48118098c73f40133ae\transformed\coordinatorlayout-1.1.0\res
+com.tmsimple.myfirstapp-appcompat-1.6.1-13 C:\Users\asus\.gradle\caches\8.11.1\transforms\5cecf1123265ddd02dc92cd0d07d494c\transformed\appcompat-1.6.1\res
+com.tmsimple.myfirstapp-lifecycle-viewmodel-2.6.1-14 C:\Users\asus\.gradle\caches\8.11.1\transforms\5f3b332b5d672a146ba98982fe6d0400\transformed\lifecycle-viewmodel-2.6.1\res
+com.tmsimple.myfirstapp-emoji2-1.2.0-15 C:\Users\asus\.gradle\caches\8.11.1\transforms\6452d0624764d60f02ab1682ac6d3e02\transformed\emoji2-1.2.0\res
+com.tmsimple.myfirstapp-constraintlayout-2.1.4-16 C:\Users\asus\.gradle\caches\8.11.1\transforms\6725d03debbeec0191468782f249a1af\transformed\constraintlayout-2.1.4\res
+com.tmsimple.myfirstapp-drawerlayout-1.1.1-17 C:\Users\asus\.gradle\caches\8.11.1\transforms\675fdeed66ba0d1ca3dbbac2de3ed2ed\transformed\drawerlayout-1.1.1\res
+com.tmsimple.myfirstapp-savedstate-1.2.1-18 C:\Users\asus\.gradle\caches\8.11.1\transforms\6ef4e5a78c5b87027d61f2ab225d35c5\transformed\savedstate-1.2.1\res
+com.tmsimple.myfirstapp-recyclerview-1.1.0-19 C:\Users\asus\.gradle\caches\8.11.1\transforms\6faa601f99fc30430662e770c1a35748\transformed\recyclerview-1.1.0\res
+com.tmsimple.myfirstapp-lifecycle-runtime-2.6.1-20 C:\Users\asus\.gradle\caches\8.11.1\transforms\71fb73f2bc822201fc9947c8806b8f69\transformed\lifecycle-runtime-2.6.1\res
+com.tmsimple.myfirstapp-transition-1.4.1-21 C:\Users\asus\.gradle\caches\8.11.1\transforms\7702003216d5923fe934bb5237b8f262\transformed\transition-1.4.1\res
+com.tmsimple.myfirstapp-annotation-experimental-1.3.0-22 C:\Users\asus\.gradle\caches\8.11.1\transforms\7ac63a1b8e46bf9928a8d302421b8db6\transformed\annotation-experimental-1.3.0\res
+com.tmsimple.myfirstapp-navigation-runtime-2.6.0-23 C:\Users\asus\.gradle\caches\8.11.1\transforms\8ab94c986c966dadc5556c08e1d8bb92\transformed\navigation-runtime-2.6.0\res
+com.tmsimple.myfirstapp-profileinstaller-1.3.0-24 C:\Users\asus\.gradle\caches\8.11.1\transforms\8edceb9470a49210e69fd3ddfe57930f\transformed\profileinstaller-1.3.0\res
+com.tmsimple.myfirstapp-slidingpanelayout-1.2.0-25 C:\Users\asus\.gradle\caches\8.11.1\transforms\965b4c167906c8a1aaf4b6662ff96ab3\transformed\slidingpanelayout-1.2.0\res
+com.tmsimple.myfirstapp-navigation-common-2.6.0-26 C:\Users\asus\.gradle\caches\8.11.1\transforms\9705bbafb6fc1955ecb570a65c1a8734\transformed\navigation-common-2.6.0\res
+com.tmsimple.myfirstapp-lifecycle-viewmodel-ktx-2.6.1-27 C:\Users\asus\.gradle\caches\8.11.1\transforms\97d7b30d12b952be8ccfcd4fc093accc\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.tmsimple.myfirstapp-activity-1.6.1-28 C:\Users\asus\.gradle\caches\8.11.1\transforms\9af4bb00a0df1e500e8c0f6379615f23\transformed\activity-1.6.1\res
+com.tmsimple.myfirstapp-fragment-1.6.0-29 C:\Users\asus\.gradle\caches\8.11.1\transforms\9e575c5573446cee8283fdb6de75161c\transformed\fragment-1.6.0\res
+com.tmsimple.myfirstapp-viewpager2-1.0.0-30 C:\Users\asus\.gradle\caches\8.11.1\transforms\a25cb6775cf16cab8838c601ca90b931\transformed\viewpager2-1.0.0\res
+com.tmsimple.myfirstapp-activity-ktx-1.6.1-31 C:\Users\asus\.gradle\caches\8.11.1\transforms\a622b7d8dd61881f4297830afdf5fb33\transformed\activity-ktx-1.6.1\res
+com.tmsimple.myfirstapp-startup-runtime-1.1.1-32 C:\Users\asus\.gradle\caches\8.11.1\transforms\d45add8ef9ab33f7031bc7f957f2ebfc\transformed\startup-runtime-1.1.1\res
+com.tmsimple.myfirstapp-material-1.5.0-33 C:\Users\asus\.gradle\caches\8.11.1\transforms\e6501c5462d485b3eaa17e2d0aa28c10\transformed\material-1.5.0\res
+com.tmsimple.myfirstapp-lifecycle-viewmodel-savedstate-2.6.1-34 C:\Users\asus\.gradle\caches\8.11.1\transforms\e7844a6e66e9b1faf3e6cc7c4f20be97\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.tmsimple.myfirstapp-core-ktx-1.9.0-35 C:\Users\asus\.gradle\caches\8.11.1\transforms\f0a989e77ea784f607cdb0661ff6c687\transformed\core-ktx-1.9.0\res
+com.tmsimple.myfirstapp-lifecycle-process-2.6.1-36 C:\Users\asus\.gradle\caches\8.11.1\transforms\f6c15072284b4feb4730076e92212249\transformed\lifecycle-process-2.6.1\res
+com.tmsimple.myfirstapp-lifecycle-livedata-2.6.1-37 C:\Users\asus\.gradle\caches\8.11.1\transforms\fad4a7752c428326acca0a0de1acf3e3\transformed\lifecycle-livedata-2.6.1\res
+com.tmsimple.myfirstapp-window-1.0.0-38 C:\Users\asus\.gradle\caches\8.11.1\transforms\fedce681144fc0ee1cc409163c437093\transformed\window-1.0.0\res
+com.tmsimple.myfirstapp-pngs-39 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\build\generated\res\pngs\debug
+com.tmsimple.myfirstapp-resValues-40 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\build\generated\res\resValues\debug
+com.tmsimple.myfirstapp-packageDebugResources-41 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.tmsimple.myfirstapp-packageDebugResources-42 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.tmsimple.myfirstapp-debug-43 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.tmsimple.myfirstapp-debug-44 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\src\debug\res
+com.tmsimple.myfirstapp-main-45 D:\Documents\ITS Semester 6\2-1 Pemrograman Perangkat Bergerak (B)\android-MyFirstApp-main\app\src\main\res
