@@ -1,2 +1,3 @@
 # myFirstApp
-This gitHub repository houses an Android application project, showcasing an XML manifest file that defines the configuration settings for the application. This manifest file specifies essential attributes such as the application icon, label, theme, and the main activity (MainActivity) to be launched when the application starts. 
+_Repository GitHub_ ini menampung proyek aplikasi Android, yang menampilkan _file manifest_ XML yang menentukan pengaturan konfigurasi untuk aplikasi tersebut. _File manifest_ inilah yang menentukan atribut penting seperti ikon aplikasi, label, tema, dan aktivitas utama (_file_ bernama "MainActivity") yang akan dijalankan saat aplikasi dimulai:
+_**"My First App" oleh Adrian Aziz Santoso (NRP 5025221229)**_: https://www.youtube.com/watch?v=Nr55zEuQo6w[https://www.youtube.com/watch?v=Nr55zEuQo6w]
